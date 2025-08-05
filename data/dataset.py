@@ -1,0 +1,2 @@
+class SparseDataset:
+    pass
